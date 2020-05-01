@@ -1,0 +1,9 @@
+C:\Users\itbre\source\repos\TDDLesson\TDDLesson\bin\Debug\TDDLesson.exe.config
+C:\Users\itbre\source\repos\TDDLesson\TDDLesson\bin\Debug\TDDLesson.exe
+C:\Users\itbre\source\repos\TDDLesson\TDDLesson\bin\Debug\TDDLesson.pdb
+C:\Users\itbre\source\repos\TDDLesson\TDDLesson\obj\Debug\TDDLesson.csprojAssemblyReference.cache
+C:\Users\itbre\source\repos\TDDLesson\TDDLesson\obj\Debug\TDDLesson.Properties.Resources.resources
+C:\Users\itbre\source\repos\TDDLesson\TDDLesson\obj\Debug\TDDLesson.csproj.GenerateResource.cache
+C:\Users\itbre\source\repos\TDDLesson\TDDLesson\obj\Debug\TDDLesson.csproj.CoreCompileInputs.cache
+C:\Users\itbre\source\repos\TDDLesson\TDDLesson\obj\Debug\TDDLesson.exe
+C:\Users\itbre\source\repos\TDDLesson\TDDLesson\obj\Debug\TDDLesson.pdb
